@@ -24,5 +24,16 @@ Loosely following the write-up of the project: https://chi2labs.github.io/x-mas-
 
 ## Second go at RL
 - Positive Results
+- Simulation games with Scores
 
-#
+## Vision model
+- Need
+- First approach: Fail
+## Vision Model Take 2
+- The reduced space
+- Multinominal Logistic Regression
+- Shiny App for traning (Unorthodox approach)
+
+## The showdown
+- Video
+- 
